@@ -1,0 +1,39 @@
+# Project Information
+site_name: Project SoundShooter
+site_url: https://github.com/Lenacius/SoundShooter/tree/main
+site_author: Isamu "Lenacius" Ramos Sato
+site_description: >-
+  SoundShooter (Working Title) is the object of my Final Paper (a.k.a. TCC or Trabalho de Conclusão de Curso) for my Undergaduation in Digital Games.
+
+# Repository
+repo_name: Lenacius/SoundShooter
+repo_url: https://github.com/Lenacius/SoundShooter/tree/main
+
+# Navigation Tree
+nav:
+  - Home: 'index.md'
+#  - LogBook:
+#    - "#001 ": 'lb_001.md'
+
+# Theme Configuration
+theme:
+  # Material theme that enables the look
+  name: material
+  # This enables the navigation on top instead of the left bar
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  # This block refers the button that changes the theme of the page from dark to light, etc.
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
