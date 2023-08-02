@@ -12,8 +12,8 @@ repo_url: https://github.com/Lenacius/SoundShooter/tree/main
 # Navigation Tree
 nav:
   - Home: 'index.md'
-#  - LogBook:
-#    - "#001 ": 'lb_001.md'
+  - LogBook:
+    - "001 - Context and Ideas": 'LogBook/#001.md'
 
 # Theme Configuration
 theme:
