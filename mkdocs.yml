@@ -1,13 +1,13 @@
 # Project Information
 site_name: Project SoundShooter
-site_url: https://github.com/Lenacius/SoundShooter/tree/main
+site_url: https://lenacius.github.io/SoundShooter/
 site_author: Isamu "Lenacius" Ramos Sato
 site_description: >-
   SoundShooter (Working Title) is the object of my Final Paper (a.k.a. TCC or Trabalho de Conclusão de Curso) for my Undergaduation in Digital Games.
 
 # Repository
 repo_name: Lenacius/SoundShooter
-repo_url: https://github.com/Lenacius/SoundShooter/tree/main
+repo_url: https://github.com/Lenacius/SoundShooter
 
 # Navigation Tree
 nav:
