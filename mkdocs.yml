@@ -14,6 +14,7 @@ nav:
   - Home: 'index.md'
   - LogBook:
     - "001 - Context and Ideas": 'LogBook/#001.md'
+    - "002 - TBD": 'LogBook/#002.md'
 
 # Theme Configuration
 theme:
@@ -37,3 +38,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
