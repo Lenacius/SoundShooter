@@ -15,6 +15,7 @@ nav:
   - LogBook:
     - "001 - Context and Ideas": 'LogBook/#001.md'
     - "002 - Games Analysis": 'LogBook/#002.md'
+    - "003 - TBD": 'LogBook/#003.md'
 
 # Theme Configuration
 theme:
