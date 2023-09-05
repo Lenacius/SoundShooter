@@ -15,6 +15,8 @@ nav:
   - LogBook:
     - "001 - Context and Ideas": 'LogBook/#001.md'
     - "002 - Games Analysis": 'LogBook/#002.md'
+  - DevBook:
+    - "001 - Scene and Screen Controllers": 'DevBook/#001.md'
 
 # Theme Configuration
 theme:
@@ -24,6 +26,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+
   # This block refers the button that changes the theme of the page from dark to light, etc.
   palette:
     - scheme: slate
@@ -42,5 +48,15 @@ theme:
 # Extensions
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true 
