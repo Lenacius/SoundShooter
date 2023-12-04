@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://lenacius.github.io/SoundShooter/</loc>
-         <lastmod>2023-08-17</lastmod>
+         <lastmod>2023-12-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lenacius.github.io/SoundShooter/LogBook/%23001/</loc>
-         <lastmod>2023-08-17</lastmod>
+         <lastmod>2023-12-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lenacius.github.io/SoundShooter/LogBook/%23002/</loc>
-         <lastmod>2023-08-17</lastmod>
+         <lastmod>2023-12-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lenacius.github.io/SoundShooter/LogBook/%23003/</loc>
+         <lastmod>2023-12-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
